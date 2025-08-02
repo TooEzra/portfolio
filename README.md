@@ -73,11 +73,6 @@ Images Not Displaying: Verify file paths in index.html and styles.css. Use a loc
 Responsive Issues: Test on different screen sizes and adjust media queries in styles.css if needed.
 Styling Conflicts: Ensure background images (hheey.png, tthere.png) are correctly referenced and not corrupted.
 
-Contributing
-This is a personal portfolio, but contributions are welcome! Feel free to fork the repository, suggest improvements, or report issues via email or a GitHub issue.
-License
-This project is licensed under the MIT License - see the LICENSE file for details (if included). Otherwise, it is released as open-source for personal use.
-Contact
 
 Email: ezraktoo09@gmail.com
 Phone: +254 790 206 864
